@@ -1,0 +1,6 @@
+export SPARK_HOME=<D:\ucsc\Spark\twitter-streaming-master>
+
+export CONSUMER_KEY=<8X6HjQAKn0xaLoyMsuoSgv93E>
+export CONSUMER_SECRET=<aSzZJfYrcCOVqPghPgHTFH4hVDrWjysRkv9XUnVrArIzn0h6bS>
+export ACCESS_TOKEN=<897667830228803584-ChRnEefoI0nV4iASoRMd1JmP27DNgqd>
+export ACCESS_TOKEN_SECRET=<dCIyWfWqlwfxdDFBAVYuRhon7FQW4tmSV7WCd8KoZSnRL>
